@@ -1,4 +1,0 @@
-**Q:** What kind of text what we skim
-**Ans** When we want to get the overall imprecation about the text, we used the skimming strategy. we skim a text when we want to read a writers opinion on a topic of current interest a business promotion letter in one of the example where we need to skim. We don't need to read every word of the letter carefully while skimming we read it fast. we just need to notice the important point, while is the purpose of the text. We can also skim paragraph to get a general idea about what the writer want to convey skimming tells us what general information is within a text. it can save out time of laborious reading.
-
-#### precise => Brief & accurate 
