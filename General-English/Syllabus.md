@@ -1,4 +1,4 @@
-#### General English - (Marks 30)
+## General English - (Marks 30)
 
 1. You will be provided with bullet points or keywords related to the topics which you will convert into a critical paragraph. **(Mark 10)**
 
