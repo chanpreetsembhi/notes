@@ -31,7 +31,9 @@ struct student {
     float percentage;  
 };  
   
-int main() {  
+int main() {
+    // struct student s1 = {100, 400, 0.0f};  
+    // or 
     student s1{};  
     s1.roll_no = 100;  
     s1.marks = 400;  
