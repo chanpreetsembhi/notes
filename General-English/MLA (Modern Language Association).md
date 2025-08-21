@@ -1,6 +1,6 @@
 #### 1. Book with 1 author.
 
-**Name:** Emily Clarke
+**Name:** Emily Clarke \
 **Title:** The Art of Telling
 **Publisher:** Penguin Books
 **Year:** 2014
