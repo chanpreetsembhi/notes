@@ -48,7 +48,7 @@
 
 **Example:** Surname, Name. "Chapter." Book (in Italic). Publisher, Year, pp. 25-47.
 
-**Ans:** Carter, James. "Share Market in India." _Business Economics_. Oxford Press, 2018. pp. 25-47.
+**Ans:** Carter, James. "Share Market in India." _Business Economics_. Oxford Press, 2018, pp. 25-47.
 
 --------------------------------------------------------------------------
 #### 5. Chapter in a book with 2 author
@@ -63,7 +63,7 @@
 
 **Example:** Surname(Name1), Name(Name1), and Name2. "Chapter." Book (in Italic). Publisher, Year, pp. 50-72.
 
-**Ans:** Parker, Ricked, Emily Turner. "Child Development." _Psychology_. Cambridge, 2015. pp. 50-72.
+**Ans:** Parker, Ricked, Emily Turner. "Child Development." _Psychology_. Cambridge, 2015, pp. 50-72.
 
 --------------------------------------------------------------------------
 #### 6. Chapter in a Book with Editor
@@ -78,7 +78,7 @@
 
 **Example:** Surname, Name. "Chapter." Book (in Italic), edited by Editor. Publisher, Year, pp. 158-169.
 
-**Ans:** Thompson, Michael. "Global Politics." _21st Century_, editor by David Lee. Springer, 2020. pp. 158-169.
+**Ans:** Thompson, Michael. "Global Politics." _21st Century_, editor by David Lee. Springer, 2020, pp. 158-169.
 
 --------------------------------------------------------------------------
 #### 7. Journal Article
@@ -93,6 +93,6 @@
 
 **Example:** Surname, Name. "Article." Journal (in Italic), Volume, no. Issue, Year, pp. 15-23.
 
-**Ans:** Dhaliwal, Riya. "Role of Art in Psychology." _Psychological Aspects_, 12, no. 2, 2018. pp. 15-23.
+**Ans:** Dhaliwal, Riya. "Role of Art in Psychology." _Psychological Aspects_, 12, no. 2, 2018. pp, 15-23.
 
 --------------------------------------------------------------------------
