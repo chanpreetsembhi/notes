@@ -93,6 +93,6 @@
 
 **Example:** Surname, Name. "Article." Journal (in Italic), Volume, no. Issue, Year, pp. 15-23.
 
-**Ans:** Dhaliwal, Riya. "Role of Art in Psychology." _Psychological Aspects_, 12, no. 2, 2018. pp, 15-23.
+**Ans:** Dhaliwal, Riya. "Role of Art in Psychology." _Psychological Aspects_, 12, no. 2, 2018, pp. 15-23.
 
 --------------------------------------------------------------------------
