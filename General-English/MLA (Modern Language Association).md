@@ -91,8 +91,8 @@
 **Year:** 2018 
 **Pages:** 15-23
 
-**Example:** Surname, Name. "Article." Journal (in Italic), Vol. Volume, no. Issue, Year, pp. 15-23.
+**Example:** Surname, Name. "Article." Journal (in Italic), vol. Volume, no. Issue, Year, pp. 15-23.
 
-**Ans:** Dhaliwal, Riya. "Role of Art in Psychology." _Psychological Aspects_, Vol. 12, no. 2, 2018, pp. 15-23.
+**Ans:** Dhaliwal, Riya. "Role of Art in Psychology." _Psychological Aspects_, vol. 12, no. 2, 2018, pp. 15-23.
 
 --------------------------------------------------------------------------
