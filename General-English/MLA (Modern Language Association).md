@@ -78,7 +78,7 @@
 
 **Example:** Surname, Name. "Chapter." Book (in Italic), edited by Editor. Publisher, Year, pp. 158-169.
 
-**Ans:** Thompson, Michael. "Global Politics." _21st Century_, editor by David Lee. Springer, 2020, pp. 158-169.
+**Ans:** Thompson, Michael. "Global Politics." _21st Century_, edited by David Lee. Springer, 2020, pp. 158-169.
 
 --------------------------------------------------------------------------
 #### 7. Journal Article
