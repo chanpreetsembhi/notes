@@ -93,6 +93,17 @@
 
 **Example:** Surname, Name. "Article." Journal (in Italic), vol. Volume, no. Issue, Year, pp. 15-23.
 
-**Ans:** Dhaliwal, Riya. "Role of Art in Psychology." _Psychological Aspects_, vol. 12, no. 2, 2018, pp. 15-23.
+**Ans:** Dhaliwal, Riya. "Role of Art in Psychology." _Psychological Aspects_, vol. 12, no. 2, 2018, pp. 15-23.
 
 --------------------------------------------------------------------------
+#### 8. Article With URL
+
+**Author:** Thomas Reed
+**Article Title:** "The Modernist Influence on Post-War Literature"
+**Journal Title:** English Review Online
+**Year:** 2020
+**URL:** https://www.englishreviewonline.org/article22
+
+**Example:** Surname, Name. "Article." Journal (in Italic), vol. Volume, no. Issue, Year, pp. 15-23.
+
+**Ans:** Reed, Thomas. "The Modernist Influence on Post-War Literature." _English Review Online_, 2020, https://www.englishreviewonline.org/article22.
