@@ -11,3 +11,8 @@
 9. Definitions :- Schema, Tuple, Entity, Attribute, Data Dictionary, Metadata
 10. What is data model? What are various types of data model. Explain with example also write advantages and disadvantages of data model?
 11. Write the comparison/differences among different types of data model ?
+12. Define E-R Model and E-R Diagram. Write the features of E-R Model ? 
+13. Discuss terminology entity type, entity instances, entity  set, different type of attribute ?
+14. Briefly discuss the degree, connectivity, contently, direction of relationship with example ?
+15. What do you mean by E-R Diagrams. what symbol are used for E-R Diagram. Draw the E-R Diagram for software Company, banking organization and book and shopkeeper ?
+16. What is different between weak and strong entity ?
