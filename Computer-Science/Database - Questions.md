@@ -16,3 +16,6 @@
 14. Briefly discuss the degree, connectivity, contently, direction of relationship with example ?
 15. What do you mean by E-R Diagrams. what symbol are used for E-R Diagram. Draw the E-R Diagram for software Company, banking organization and book and shopkeeper ?
 16. What is different between weak and strong entity ?
+17. What do you mean by normalization why do we need normalization also discuss the advantage and disadvantage of normalization ?
+18. What are different types of normalization explain with example also discuss the inserting, deleting, updating anomalies of normalization in details ?
+19. Briefly explain functional dependency, fully function dependency and transitive dependency with an example ?
