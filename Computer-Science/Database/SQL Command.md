@@ -63,7 +63,7 @@ SELECT * FROM Student WHERE name LIKE 'A%';
 INSERT INTO Student (roll_no, name, age, city) VALUES (101, 'Rahul', 20, 'Delhi');
 ```
 
- <center>OR</center>
+OR
 
 ```sql
 insert into student
