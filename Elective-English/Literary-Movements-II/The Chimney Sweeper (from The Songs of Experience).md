@@ -1,0 +1,9 @@
+Written by William Blake, a Romantic poet from the 18th century CE, The Chimney Sweeper explores themes of religious hypocrisy and social injustice using the voice of a suffering child as a medium. Blake’s Christian influence acts as an epicentre for his works. The word/s "soot" and "little black thing among the snow" are used to present an imagery of a child exploited for cheap labour. There is also an exploration of the aforementioned child’s woeful cries that he expresses as a result of the labour that is forced upon him. The grievance of the child’s parents apathy and their appeasement to the Church and the State, while the child is burdened with industrial labour, is also expressed. 
+
+Then, there is also a direct criticism of the Church and State in "who make up a heaven of misery" presenting an imagery of false promises of salvation. Blake perfectly layers innocence and moral compass with institutionalised oppression and human compassion turned into apathy.
+
+---
+
+ਵਿਲੀਅਮ ਬਲੇਕ, 18ਵੀਂ ਸਦੀ ਦੇ ਇੱਕ ਰੋਮਾੰਟਿਕ ਕਵੀ, ਦ੍ਵਾਰਾ ਲਿਖੀ ਹੋਈ "ਦਾ ਚਿਮਨੀ ਸਵੀਪਰ" ਇੱਕ ਸ਼ੋਸ਼ਿਤ ਬੱਚੇ ਦੀ ਜ਼ੁਬਾਨੀ ਧਾਰਮਿਕ ਦੋਗਲੇਪਨ ਅਤੇ ਸਮਾਜਿਕ ਨਾਇਨਸਾਫ਼ੀ ਦੇ ਵਿਸ਼ੇ-ਵਸਤੂ ਨੂੰ ਵੰਗਾਰਦੀ ਹੈ। ਬਲੇਕ ਦਾ ਬਚਪਨ ਦਾ ਇਸਾਈ ਪਾਲਣ-ਪੋਸ਼ਣ ਉੱਨ੍ਹਾਂ ਦੀਆਂ ਲਿਖਤਾਂ ਦਾ ਇੱਕ ਮਹੱਤਵਪੂਰਨ ਕੇਂਦਰ ਹੈ। "Soot" ਅਤੇ "little black thing among the snow" ਵਰਗੇ ਸ਼ਬਦਾਂ ਦੀ ਵਰਤੋਂ ਕਰ, ਬਾਲ ਮਜ਼ਦੂਰੀ ਨਤੀਜਨ ਇੱਕ ਬੱਚੇ ਦੇ ਕਾਲਸ ਨਾਲ ਲਬਰੇਜ਼ ਲੀੜਿਆਂ ਦੀ ਤਸਵੀਰ ਪੇਸ਼ ਕੀਤੀ ਹੋਈ ਹੈ। ਕਵਿਤਾ 'ਚ ਬੱਚੇ ਦੀ ਦੁੱਖਭਰੀ ਗੁਹਾਰਾਂ ਦਾ ਜ਼ਿਕਰ ਵੀਂ ਕੀਤਾ ਗਿਆ ਹੈ ਜੋ ਕਿ ਉਸ ਉੱਤੇ ਧੱਕੇ ਨਾਲ ਥੋਪੀ ਮਜ਼ਦੂਰੀ ਦੀ ਉਪਜ ਹਨ। ਉਸ ਬੱਚੇ ਦੇ ਮਾਪਿਆਂ ਦੀ Church ਅਤੇ State ਨੂੰ ਖ਼ੁਸ਼ ਕਰਨ ਦੇ ਵੱਲ ਝੁਕਾਵ ਕਰਕੇ ਉਸ ਵੱਲ ਦਿਖਾਈ ਬੇਵਾਸਤਗੀ ਦੀ ਗੁਹਾਰ ਵੀਂ ਦਰਸ਼ਾਈ ਗਈ ਹੈ ਜਿੱਥੇ ਕਿ ਓਹਨੂੰ ਉਦਯੋਗੀ ਮਜ਼ਦੂਰੀ ਦਾ ਸ਼ਿਕਾਰ ਬਣਨਾ ਪੈ ਰਿਹਾ ਹੈ।
+
+ਫੇਰ, "who make up a heaven of misery" ਰਾਹੀਂ ਕਵਿਤਾ 'ਚ Church ਅਤੇ State ਦੀ ਸਿੱਧੀ ਆਲੋਚਨਾ ਵੀ ਮਿਲਦੀ ਹੈ ਜਿਸ ਵਿੱਚ ਮੁਕਤੀ/ਮੋਕਸ਼ ਪਾਉਣ ਵਰਗੇ ਝੂਠੇ ਵਾਅਦਿਆਂ ਦੀ ਤਸਵੀਰ ਪੇਸ਼ ਹੁੰਦੀ ਹੈ। ਵਿਲੀਅਮ ਬਲੇਕ ਸ਼੍ਰੇਸ਼ਠਤਾ ਨਾਲ ਮਾਸੂਮੀਅਤ ਅਤੇ ਨੈਤਿਕ ਦਾਇਰੇ ਦੀ ਪਰਤ ਸਾਂਸਥਿਕ ਜ਼ੁਲਮ ਅਤੇ ਇਨਸਾਨੀ ਕਰੁਣਾ, ਜੋ ਕਿ ਬੇਵਾਸਤਗੀ ਬਣ ਚੁੱਕੀ ਹੈ, ਨਾਲ ਜੋੜਦਾ ਹੈ।
