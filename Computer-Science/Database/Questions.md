@@ -1,3 +1,5 @@
+## Unit 1
+
 1. What is database? discuss the feature of database ?
 2. Briefly discuss file system approach for database management. Also write the limitation of file system. Approach in comparison to DBMS ?
    **OR**
@@ -19,3 +21,26 @@
 17. What do you mean by normalization why do we need normalization also discuss the advantage and disadvantage of normalization ?
 18. What are different types of normalization explain with example also discuss the inserting, deleting, updating anomalies of normalization in details ?
 19. Briefly explain functional dependency, fully function dependency and transitive dependency with an example ?
+
+---
+## Unit 2
+
+1. What is SQL. discuss the various types of datatypes available in SQL. Explain with example ?
+2. Explain the different types of SQL language Statement with there syntax and example ?
+3. Explain the create table command with it complete syntax and example also write about how you can create a table from another table ?
+4. What so you mean by Query in SQL. Explain the Query in database table in details also write the use of where, order by, group by and heaving clauses used in Query Process ?
+5. What do you mean by DDL and DML statement in SQL. Explain the difference DDL and DML with there complete syntax and example ?
+6. Different Pattern matching operator used in SQL with example ?
+7. What is mean by Function in SQL. what is difference between single row and aggregate function also write various functions ?
+8. What do you mean by views. what are the advantages of view how you can create and delete views in SQL ?
+
+---
+## Unit 3
+
+1. What do you mean by privileges and different type of privileges. how you can grant and remove privileges from user. Explain with syntax with example ?
+2. What do you mean by Transaction in SQL. What are different statement use for Transaction management in SQL ?
+3. What is Function. Explain Arithmetic, Characters and Date Function with example ?
+4. What are Group Function in SQL. describe group function available in SQL also give in example ?
+5. How you can Query Data from multiple table in SQL. Give Example ?
+6. What do you mean by joins. what are different types of joins example with the complete syntax with example ?
+7. What are set of operator. explain different types of set operators available in SQL also give example ?
