@@ -1,10 +1,10 @@
 ## Unit 1
 
-1. What is database? discuss the feature of database ?
-2. Briefly discuss file system approach for database management. Also write the limitation of file system. Approach in comparison to DBMS ?
+1. What is database? Discuss the feature of database ?
+2. Briefly discuss file system approach for database management. Also write the limitation of file system approach in comparison to DBMS ?
    **OR**
    Describe the advantages of DBMS over file system?
-3. Describe DBMS. Also write the component of DBMS environment. explain the need of databases ?
+3. Describe DBMS. Also write the component of DBMS environment. Explain the need of databases ?
 4. What do you mean by database language. what are different forms of it ?
 5. Explain the Physical Structure of DBMS with diagram. Also write the advantages & disadvantages of DBMS ?
 6. What do you mean by Database system Architecture. Explain the three level of DBMS ?
@@ -21,6 +21,7 @@
 17. What do you mean by normalization why do we need normalization also discuss the advantage and disadvantage of normalization ?
 18. What are different types of normalization explain with example also discuss the inserting, deleting, updating anomalies of normalization in details ?
 19. Briefly explain functional dependency, fully function dependency and transitive dependency with an example ?
+20. Discuss in detail Codd’s 12 Rules for RDBMS.
 
 ---
 ## Unit 2
@@ -43,4 +44,21 @@
 4. What are Group Function in SQL. describe group function available in SQL also give in example ?
 5. How you can Query Data from multiple table in SQL. Give Example ?
 6. What do you mean by joins. what are different types of joins example with the complete syntax with example ?
-7. What are set of operator. explain different types of set operators available in SQL also give example ?
+7. What are set of operator. explain different types of set operators available in SQL, and give example ?
+8. What is a Subquery? Explain different types of it with their syntax and examples.
+
+---
+## Unit 4
+
+1. What is PL/SQL? Explain its features and need in database programming. How is PL/SQL different from SQL? 
+2. Explain the basic structure of a PL/SQL block. 
+3. Explain the architecture of PL/SQL. Describe how the PL/SQL engine interacts with the SQL engine.
+4. Explain how SQL statements are used within PL/SQL blocks. 
+5. Explain PL/SQL Data Types in detail. 
+6. What are variables and constants in PL/SQL? Explain the scope and visibility of variables with an example. 
+7. What are the different types of operators in PL/SQL? Explain the operator precedence with an example. 
+8. Explain the use of built-in functions in PL/SQL. Discuss how SQL functions can be used inside PL/SQL blocks. 
+9. Explain control statements in PL/SQL with their syntax and examples. What is Exception Handling in PL/SQL? Explain the structure of the exception handling in a PL/SQL block with syntax and example. 
+10. What are user-defined exceptions? Explain how they are declared and raised? 
+11. What is a Cursor in PL/SQL? Differentiate between Implicit and Explicit Cursors with suitable examples. Also, discuss cursor attributes in PL/SQL. Explain %FOUND, %NOTFOUND, %ROWCOUNT and %ISOPEN with an example. 
+12. What is a Database Trigger? Explain its purpose and working with an example. Differentiate between row-level and statement-level triggers.
