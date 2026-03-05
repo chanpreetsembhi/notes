@@ -96,14 +96,45 @@
 **Ans:** Dhaliwal, Riya. "Role of Art in Psychology." _Psychological Aspects_, vol. 12, no. 2, 2018, pp. 15-23.
 
 --------------------------------------------------------------------------
-#### 8. Article With URL
+#### 8. Journal Article (Database and Link)
 
-**Author:** Thomas Reed
-**Article Title:** "The Modernist Influence on Post-War Literature"
-**Journal Title:** English Review Online
-**Year:** 2020
-**URL:** https://www.englishreviewonline.org/article22
+1. **Journal Article with Database**
 
-**Example:** Surname, Name. "Article." Journal (in Italic), vol. Volume, no. Issue, Year, pp. 15-23.
+   **Name:** Henry James
+   **Title:** Daisy Miller
+   **Publisher:** Macmillan
+   **Year:** 1881
+   **Database:** JSTOR
 
-**Ans:** Reed, Thomas. "The Modernist Influence on Post-War Literature." _English Review Online_, 2020, https://www.englishreviewonline.org/article22.
+   **Example:** Surname, Name. Title (in italic), Publisher, Year. Database.
+   
+   **Ans:** James, Henry. _Daisy Miller_. Macmillan, 1881. _JSTOR_.
+   
+   ---
+
+2. **Journal Article with Link**
+
+   **Name:** A Riya Dhaliwal
+   **Article:** Role of Art in Psychology 
+   **Journal:** Psychological Aspects
+   **Volume:** 12 
+   **Issue:** 2 
+   **Year:** 2018 
+   **Pages:** 15-23
+   **Link:** https://en.wikipedia.org/wiki/Psychological_Assessment_(journal)
+
+   **Example:** Surname, Name. "Article." Journal (in Italic), vol. Volume, no. Issue, Year, pp. 15-23, Link.
+
+   **Ans:** Dhaliwal, Riya. "Role of Art in Psychology." _Psychological Aspects_, vol. 12, no. 2, 2018, pp. 15-23, https://en.wikipedia.org/wiki/Psychological_Assessment_(journal).
+
+---
+#### 9. Editor of a Book (Revised Editor) 2nd, 3rd, 4rth
+
+**Name:** William Shakespeare
+**Title:** The Marchant of Venice
+**Year:** 1597
+**Publisher:** Penguin Classics
+**Edited:** Lee Brown
+**Edition:** Five
+
+**Example:** Shakespeare, William. _The Marchant of Venice_, edited by Lee Brown, 5th ed. , Penguin Classics, 1597.
