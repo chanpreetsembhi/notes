@@ -6,7 +6,7 @@ Example - Rowling, J.K. "The Flaw in the Plan". Harry Potter and the Deathly Hal
 
   - **One Author - Surname, comma and first name closed with a period.**
 
-    For example,
+    For example,\
     J.K. Rowling --> Rowling, J.K.
     
   - **Two Authors - Surname, comma and first name of the first author along with an "and" followed by the first name and surname of the second author ended with a period.**
