@@ -1,4 +1,4 @@
-==**How to write Modern Language Association citations?**==
+**How to write Modern Language Association citations?**
 
 Example - Rowling, J.K. "The Flaw in the Plan". Harry Potter and the Deathly Hallows, ? ed., vol. 07, no. ?, Bloomsbury Publishing, 21/07/2007, Pp. 724-749. vidyaprabodhinicollege.edu.in/VPCCECM/ebooks/ENGLISH%20LITERATURE/Harry%20potter/(Book%207)%20Harry%20Potter%20And%20The%20Deathly%20Hallows.pdf
 
