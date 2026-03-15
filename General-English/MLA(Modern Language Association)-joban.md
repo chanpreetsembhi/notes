@@ -38,7 +38,7 @@ Example - Rowling, J.K. "The Flaw in the Plan". Harry Potter and the Deathly Hal
    Translated by Vikas Kataria
 
 ---
-5. Edition, volume and number - "ed.,", "vol.," and "no." - in the exact mentioned sequence.
+5. **Edition, volume and number - "ed.,", "vol.," and "no." - in the exact mentioned sequence.**
 
    For example, 
    2nd ed., vol. 07, no. 03,
