@@ -11,65 +11,65 @@ Example - Rowling, J.K. "The Flaw in the Plan". Harry Potter and the Deathly Hal
     
   - **Two Authors - Surname, comma and first name of the first author along with an "and" followed by the first name and surname of the second author ended with a period.**
 
-    For example, 
+    For example,\
     J.K. Rowling, J.R.R. Tolkien's --> Rowling, J.K. and J.R.R. Tolkien's
     
   - **Three or more than Three authors - Surname, comma and first name of the first author followed by Latin phrase "et al".**
 
-    For example,
+    For example,\
     J.K. Rowling, J.R.R. Tolkien's, C.S. Lewis --> Rowling, J.K. et al.
 
 ---
 2. **Entry/Container - Entry/container written within doubled inverted commas " " and ended with a period.** 
 
-   For example,
+   For example,\
    "The Flaw in the Plan".
 
 ---
 3. **Title of the source - Italicized title of the source ended with a comma.**
 
-    For example, 
+    For example,\
     *Harry Potter and the Deathly Hallows,*
 
 ---
 4. **Other contributors, editors and/or translators - "edited by/ translated by" followed by the name of the individual.**
 
-   For example,
+   For example,\
    Translated by Vikas Kataria
 
 ---
 5. **Edition, volume and number - "ed.,", "vol.," and "no." - in the exact mentioned sequence.**
 
-   For example, 
+   For example,\
    2nd ed., vol. 07, no. 03,
 
 ---
 6. **Publisher/publishing source - name of the publishing source followed by a comma.**
 
-   For example,
+   For example,\
    Bloomsbury Publishing
 
 ---
 7. **Publishing date - Date, month and year written as DD/MM/YYYY**
 
-   For example, 
+   For example,\
    21/07/2007
 
 ---
 8. **Page Number - "Pp." followed page number/s.**
 
-   For example, 
+   For example,\
    Pp. 724-749
 
 ---
 9. **Digital link - Website link or other digital links.**
 
-   For example, 
+   For example,\
    vidyaprabodhinicollege.edu.in/VPCCECM/ebooks/ENGLISH%20LITERATURE/Harry%20potter/(Book%207)%20Harry%20Potter%20And%20The%20Deathly%20Hallows.pdf
 
 ---
 
-==**ਮਾਡਰਨ ਲੈਂਗੂਏਜ ਅਸੋਸੀਏਸ਼ਨ(MLA) ਹ਼ਵਾਲੇ(Citations) ਕਿਸ ਤਰ੍ਹਾਂ ਲਿਖਦੇ ਹਨ?**==
+**ਮਾਡਰਨ ਲੈਂਗੂਏਜ ਅਸੋਸੀਏਸ਼ਨ(MLA) ਹ਼ਵਾਲੇ(Citations) ਕਿਸ ਤਰ੍ਹਾਂ ਲਿਖਦੇ ਹਨ?**
 
 ਮਿਸਾਲ - 
 
