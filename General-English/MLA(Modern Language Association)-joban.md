@@ -20,10 +20,10 @@ Example - Rowling, J.K. "The Flaw in the Plan". Harry Potter and the Deathly Hal
     J.K. Rowling, J.R.R. Tolkien's, C.S. Lewis --> Rowling, J.K. et al.
 
 ---
-2. **Entry/Container - Entry/container written within doubled inverted commas " " and ended with a period.** 
+2. **Entry/Container - Entry/container written within doubled inverted commas " " and written with period.** 
 
    For example,\
-   "The Flaw in the Plan".
+   "The Flaw in the Plan."
 
 ---
 3. **Title of the source - Italicized title of the source ended with a comma.**
@@ -35,7 +35,7 @@ Example - Rowling, J.K. "The Flaw in the Plan". Harry Potter and the Deathly Hal
 4. **Other contributors, editors and/or translators - "edited by/ translated by" followed by the name of the individual.**
 
    For example,\
-   Translated by Vikas Kataria
+   Translated by Vikas Kataria.
 
 ---
 5. **Edition, volume and number - "ed.,", "vol.," and "no." - in the exact mentioned sequence.**
@@ -47,25 +47,25 @@ Example - Rowling, J.K. "The Flaw in the Plan". Harry Potter and the Deathly Hal
 6. **Publisher/publishing source - name of the publishing source followed by a comma.**
 
    For example,\
-   Bloomsbury Publishing
+   Bloomsbury Publishing,
 
 ---
 7. **Publishing date - Date, month and year written as DD/MM/YYYY**
 
    For example,\
-   21/07/2007
+   21/07/2007,
 
 ---
-8. **Page Number - "Pp." followed page number/s.**
+8. **Page Number - "pp." followed page number/s.**
 
    For example,\
-   Pp. 724-749
+   pp. 724-749.
 
 ---
 9. **Digital link - Website link or other digital links.**
 
    For example,\
-   vidyaprabodhinicollege.edu.in/VPCCECM/ebooks/ENGLISH%20LITERATURE/Harry%20potter/(Book%207)%20Harry%20Potter%20And%20The%20Deathly%20Hallows.pdf
+   vidyaprabodhinicollege.edu.in/VPCCECM/ebooks/ENGLISH%20LITERATURE/Harry%20potter/(Book%207)%20Harry%20Potter%20And%20The%20Deathly%20Hallows.pdf.
 
 ---
 
@@ -97,10 +97,10 @@ Rowling, J.K. "The Flaw in the Plan". Harry Potter and the Deathly Hallows, ? ed
 ---
 2. **ਅੰਦਰੂਨੀ ਦਾਖ਼ਲਾ (Entry/Container) -**
 
-   ਉਲਟੇ ਕਾਮੇ (", ") ਚਿੰਨ੍ਹ ਪਾ ਕੇ ਉਨ੍ਹਾਂ ਦੇ ਵਿਚਕਾਰ ਅੰਦਰਾਜ(Container) ਸ਼ਾਮਲ ਕਰਨਾ ਹੈ ਅਤੇ . ਪਾ ਕੇ ਬੰਦ ਕਰ ਦੇਣਾ ਹੈ। 
+   ਉਲਟੇ ਕਾਮੇ (", ") ਚਿੰਨ੍ਹ ਪਾ ਕੇ ਉਨ੍ਹਾਂ ਦੇ ਵਿਚਕਾਰ ਅੰਦਰਾਜ(Container) ਸ਼ਾਮਲ ਕਰਨਾ ਹੈ ਅਤੇ ਵਿੱਚ . ਪੈਣਾ ਹੈ। 
 
    ਮਿਸਾਲ -\
-   "The Flaw in the Plan".
+   "The Flaw in the Plan."
 
 ---
 3. **ਸ੍ਰੋਤ ਦਾ ਸਿਰਲੇਖ (Title Of The Source) -**
@@ -116,7 +116,7 @@ Rowling, J.K. "The Flaw in the Plan". Harry Potter and the Deathly Hallows, ? ed
    Edited by/translated by ਲਿਖਕੇ ਵਿਅਕਤੀ ਦਾ ਨਾਮ ਅਤੇ ਕਾਮਾ ਚਿੰਨ੍ਹ।
 
    ਮਿਸਾਲ -\ 
-   Edited by Vikas Kararia,
+   Edited by Vikas Kataria.
 
 ---
 5. **ਐਡੀਸ਼ਨ (Edition) , ਵਾਲਯੂਮ (Volume) ਅਤੇ ਨੰਬਰ (Number) -**
@@ -145,10 +145,10 @@ Rowling, J.K. "The Flaw in the Plan". Harry Potter and the Deathly Hallows, ? ed
 ---
 8. **ਵਰਕ਼ਾ ਨੰਬਰ (Page Number) -**
 
-   Pp. ਪਾ ਕੇ ਵਰਕ਼ਿਆਂ ਦੇ ਨੰਬਰ ਲਿਖ ਕੇ, . ਪਾ ਕੇ ਬੰਦ ਕਰ ਦੇਣਾ ਹੈ।
+   pp. ਪਾ ਕੇ ਵਰਕ਼ਿਆਂ ਦੇ ਨੰਬਰ ਲਿਖ ਕੇ, . ਪਾ ਕੇ ਬੰਦ ਕਰ ਦੇਣਾ ਹੈ।
 
    ਮਿਸਾਲ -\
-   Pp. 724-749.
+   pp. 724-749.
 
 ---
 9. **ਵੈਬਸਾਇਟ ਸ੍ਰੋਤ (Link/URL) -**
@@ -156,4 +156,4 @@ Rowling, J.K. "The Flaw in the Plan". Harry Potter and the Deathly Hallows, ? ed
    ਲਿੰਕ ਜਾਂ ਯੂ.ਆਰ.ਐਲ.(URL) ਹੂਬਹੂ ਲਿਖਕੇ ਬਿੰਦੀ (.) ਪਾ ਕੇ ਬੰਦ ਕਰ ਦੇਣਾ ਹੈ।
 
    ਮਿਸਾਲ -\
-   vidyaprabodhinicollege.edu.in/VPCCECM/ebooks/ENGLISH%20LITERATURE/Harry%20potter/(Book%207)%20Harry%20Potter%20And%20The%20Deathly%20Hallows.pdf
+   vidyaprabodhinicollege.edu.in/VPCCECM/ebooks/ENGLISH%20LITERATURE/Harry%20potter/(Book%207)%20Harry%20Potter%20And%20The%20Deathly%20Hallows.pdf.
