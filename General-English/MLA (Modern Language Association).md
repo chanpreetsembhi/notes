@@ -1,159 +1,140 @@
-**How to write Modern Language Association citations?**
+#### 1. Book with 1 author.
 
-Example - Rowling, J.K. "The Flaw in the Plan." Harry Potter and the Deathly Hallows, ? ed., vol. 07, no. ?, Bloomsbury Publishing, 21/07/2007, pp. 724-749. vidyaprabodhinicollege.edu.in/VPCCECM/ebooks/ENGLISH%20LITERATURE/Harry%20potter/(Book%207)%20Harry%20Potter%20And%20The%20Deathly%20Hallows.pdf.
+**Name:** Emily Clarke
+**Title:** The Art of Telling
+**Publisher:** Penguin Books
+**Year:** 2014
 
-1. **Author/s**
+**Example:** Surname, Name. Title (in Italic). Publisher, Year.
 
-  - **One Author - Surname, comma and first name closed with a period.**
+**Ans:** Clarke, Emily. _The Art of Telling_. Penguin Books, 2014.
 
-    For example,\
-    J.K. Rowling --> Rowling, J.K.
-    
-  - **Two Authors - Surname, comma and first name of the first author along with an "and" followed by the first name and surname of the second author ended with a period.**
+--------------------------------------------------------------------------
+#### 2. Book with 2 author
 
-    For example,\
-    J.K. Rowling, J.R.R. Tolkien's --> Rowling, J.K. and J.R.R. Tolkien's
-    
-  - **Three or more than Three authors - Surname, comma and first name of the first author followed by Latin phrase "et al".**
+**Name1**: Daniel Brown
+**Name2:** Emily Harris
+**Title:** Global Business Strategies
+**Publisher:** McGraw-Hill
+**Year:** 2015
 
-    For example,\
-    J.K. Rowling, J.R.R. Tolkien's, C.S. Lewis --> Rowling, J.K. et al.
+**Example:** Surname(Name1), Name1, and Name2. Title (in Italic). Publisher, Year.
 
----
-2. **Entry/Container - Entry/container written within doubled inverted commas " " and written with period.** 
+**Ans:** Brown, Daniel, and Emily Harris. _Global Business Strategies_. McGraw-Hill, 2015.
 
-   For example,\
-   "The Flaw in the Plan."
+--------------------------------------------------------------------------
+#### 3. Book with 3 author or multiple authors
 
----
-3. **Title of the source - Italicized title of the source ended with a comma.**
+**Name1**: Patricia White
+**Name2:** John Miller
+**Name3:** Rachael Adams
+**Title:** Architecture
+**Publisher:** Penguin
+**Year:** 2018
 
-    For example,\
-    *Harry Potter and the Deathly Hallows,*
+**Example:** Surname(Name1), Name1, et al. Title (in Italic). Publisher, Year.
 
----
-4. **Other contributors, editors and/or translators - "edited by/ translated by" followed by the name of the individual.**
+**Ans:** White, Patricia, et al. _Architecture_. Penguin, 2018.
 
-   For example,\
-   Translated by Vikas Kataria.
+--------------------------------------------------------------------------
+#### 4. Chapter in a book
 
----
-5. **Edition, volume and number - "ed.,", "vol.," and "no." - in the exact mentioned sequence.**
+**Name**: James Carter
+**Chapter:** Share Market in India
+**Book:** Business Economics
+**Publisher:** Oxford Press
+**Year:** 2018
+**Pages:** 25-47
 
-   For example,\
-   2nd ed., vol. 07, no. 03,
+**Example:** Surname, Name. "Chapter." Book (in Italic). Publisher, Year, pp. 25-47.
 
----
-6. **Publisher/publishing source - name of the publishing source followed by a comma.**
+**Ans:** Carter, James. "Share Market in India." _Business Economics_. Oxford Press, 2018, pp. 25-47.
 
-   For example,\
-   Bloomsbury Publishing,
+--------------------------------------------------------------------------
+#### 5. Chapter in a book with 2 author
 
----
-7. **Publishing date - Date, month and year written as DD/MM/YYYY**
+**Name1**: Ricked Parker
+**Name2**: Emily Turner
+**Chapter:** Child Development
+**Book:** Psychology
+**Publisher:** Cambridge
+**Year:** 2015
+**Pages:** 50-72
 
-   For example,\
-   21/07/2007,
+**Example:** Surname(Name1), Name(Name1), and Name2. "Chapter." Book (in Italic). Publisher, Year, pp. 50-72.
 
----
-8. **Page Number - "pp." followed page number/s.**
+**Ans:** Parker, Ricked, Emily Turner. "Child Development." _Psychology_. Cambridge, 2015, pp. 50-72.
 
-   For example,\
-   pp. 724-749.
+--------------------------------------------------------------------------
+#### 6. Chapter in a Book with Editor
 
----
-9. **Digital link - Website link or other digital links.**
+**Name**: Michael Thompson.
+**Chapter:** Global Politics
+**Book:** 21st Centurу
+**Editor**: David Lee
+**Publisher:** Springer
+**Year:** 2020
+**Pages:** 158-169
 
-   For example,\
-   vidyaprabodhinicollege.edu.in/VPCCECM/ebooks/ENGLISH%20LITERATURE/Harry%20potter/(Book%207)%20Harry%20Potter%20And%20The%20Deathly%20Hallows.pdf.
+**Example:** Surname, Name. "Chapter." Book (in Italic), edited by Editor. Publisher, Year, pp. 158-169.
 
----
+**Ans:** Thompson, Michael. "Global Politics." _21st Century_, edited by David Lee. Springer, 2020, pp. 158-169.
 
-**ਮਾਡਰਨ ਲੈਂਗੂਏਜ ਅਸੋਸੀਏਸ਼ਨ(MLA) ਹ਼ਵਾਲੇ(Citations) ਕਿਸ ਤਰ੍ਹਾਂ ਲਿਖਦੇ ਹਨ?**
+--------------------------------------------------------------------------
+#### 7. Journal Article
 
-**ਮਿਸਾਲ -** 
+**Name:** A Riya Dhaliwal
+**Article:** Role of Art in Psychology 
+**Journal:** Psychological Aspects
+**Volume:** 12 
+**Issue:** 2 
+**Year:** 2018 
+**Pages:** 15-23
 
-Rowling, J.K. "The Flaw in the Plan." Harry Potter and the Deathly Hallows, ? ed., vol. 07, no. ?, Bloomsbury Publishing, 21/07/2007, pp. 724-749. vidyaprabodhinicollege.edu.in/VPCCECM/ebooks/ENGLISH%20LITERATURE/Harry%20potter/(Book%207)%20Harry%20Potter%20And%20The%20Deathly%20Hallows.pdf.
+**Example:** Surname, Name. "Article." Journal (in Italic), vol. Volume, no. Issue, Year, pp. 15-23.
 
-1. **ਸਭ ਤੋਂ ਪਹਿਲਾਂ ਲੇਖਕ/ਲੇਖਿਕਾ/ਲੇਖਕਾਂ(Author/s) ਦੇ ਨਾਵਾਂ ਦੇ ਤਰਤੀਬਵਾਰ ਹ਼ਵਾਲੇ -**
+**Ans:** Dhaliwal, Riya. "Role of Art in Psychology." _Psychological Aspects_, vol. 12, no. 2, 2018, pp. 15-23.
 
-   - **1 ਲੇਖਕ/ਲੇਖਿਕਾ (1 author) - ਉਪਨਾਮ ਨਾਂ ਅੱਗੇ, ਕਾਮਾ ਚਿੰਨ੍ਹ (,), ਮੂਹਰਲਾ ਨਾਮ ਅਤੇ ਫੇਰ ਨੁਕ਼ਤਾ(.)।**
+--------------------------------------------------------------------------
+#### 8. Journal Article (Database and Link)
 
-     ਮਿਸਾਲ -/
-     J.K. Rowling —> Rowling, J.K.
+1. **Journal Article with Database**
 
-   - **2 ਲੇਖਕ (2 authors) - ਪਹਿਲੇ ਲੇਖਕ ਦਾ ਉਪਨਾਮ ਅੱਗੇ, ਕਾਮਾ ਚਿੰਨ੍ਹ (,), ਮੂਹਰਲਾ ਨਾਮ ਪਿੱਛੇ, and ਲਿਖ ਕੇ ਦੂਜੇ ਲੇਖਕ ਦਾ ਮੂਹਰਲਾ ਅਤੇ ਪਿਛਲਾ ਨਾਮ ਸਾਧਾਰਨ ਤਰਤੀਬ ਵਿੱਚ।**
+   **Name:** Henry James
+   **Title:** Daisy Miller
+   **Publisher:** Macmillan
+   **Year:** 1881
+   **Database:** JSTOR
 
-     ਮਿਸਾਲ -\
-     J.K. Rowling, John Smith —> Rowling, J.K. and John Smith   
+   **Example:** Surname, Name. Title (in italic), Publisher, Year. Database.
+   
+   **Ans:** James, Henry. _Daisy Miller_. Macmillan, 1881. _JSTOR_.
+   
+   ---
 
-   - **3 ਜਾਂ 3 ਤੋਂ ਵੱਧ ਲੇਖਕ (3 or more than 3 authors)**
+2. **Journal Article with Link**
 
-     ਪਹਿਲੇ ਲੇਖਕ ਦਾ ਉਪਨਾਮ ਅੱਗੇ, ਕਾਮਾ ਚਿੰਨ੍ਹ (,), ਮੂਹਰਲਾ ਨਾਮ ਅਤੇ ਫੇਰ ਲਾਤੀਨੀ ਜੁਮਲਾ "et al"।
-     
-     ਮਿਸਾਲ -\
-     Rowling, J.K. et al.
+   **Name:** A Riya Dhaliwal
+   **Article:** Role of Art in Psychology 
+   **Journal:** Psychological Aspects
+   **Volume:** 12 
+   **Issue:** 2 
+   **Year:** 2018 
+   **Pages:** 15-23
+   **Link:** https://en.wikipedia.org/wiki/Psychological_Assessment_(journal)
 
----
-2. **ਅੰਦਰੂਨੀ ਦਾਖ਼ਲਾ (Entry/Container) -**
+   **Example:** Surname, Name. "Article." Journal (in Italic), vol. Volume, no. Issue, Year, pp. 15-23, Link.
 
-   ਉਲਟੇ ਕਾਮੇ (", ") ਚਿੰਨ੍ਹ ਪਾ ਕੇ ਉਨ੍ਹਾਂ ਦੇ ਵਿਚਕਾਰ ਅੰਦਰਾਜ(Container) ਸ਼ਾਮਲ ਕਰਨਾ ਹੈ ਅਤੇ ਵਿੱਚ . ਪੈਣਾ ਹੈ। 
-
-   ਮਿਸਾਲ -\
-   "The Flaw in the Plan."
-
----
-3. **ਸ੍ਰੋਤ ਦਾ ਸਿਰਲੇਖ (Title Of The Source) -**
-
-   ਇਟੈਲਿਕ ਲਿਪੀ(Italicized font) ਵਿੱਚ ਲਿਖਕੇ ਕਾਮਾ ਚਿੰਨ੍ਹ (,) ਪਾਉਣਾ ਹੈ।
-
-   ਮਿਸਾਲ -\
-   *Harry Potter and the Deathly Hallows*, 
-
----
-4. **ਦੂਸਰੇ ਇਜ਼ਾਫ਼ਾ ਕਰਨ, ਸੋਧਣ ਵਾਲ਼ੇ ਜਾਂ ਅਨੁਵਾਦ ਕਰਨ ਵਾਲ਼ੇ ਲੇਖਕ (Other contributors, editors or translators)**
-
-   Edited by/translated by ਲਿਖਕੇ ਵਿਅਕਤੀ ਦਾ ਨਾਮ ਅਤੇ ਕਾਮਾ ਚਿੰਨ੍ਹ।
-
-   ਮਿਸਾਲ -\ 
-   Edited by Vikas Kataria.
-
----
-5. **ਐਡੀਸ਼ਨ (Edition) , ਵਾਲਯੂਮ (Volume) ਅਤੇ ਨੰਬਰ (Number) -**
-
-   ਜੇਕਰ ਦਿੱਤੇ ਹੋਣ ਤਾਂ ਉੱਤੇ ਲਿਖੀਂ ਤਰਤੀਬ ਨਾਲ ਹੀ ed., Vol., ਅਤੇ no., ਵਰਤ ਕੇ ਲਿਖਣੇ ਹਨ।
-
-   ਮਿਸਾਲ -\
-   2nd ed., vol. 03, no. 2, 
-
----
-6. **ਨਸ਼ਰਖ਼ਾਨਾ/ਛਾਪੇਮਾਰੀ ਦਾ ਸ੍ਰੋਤ (Publisher/Publishing source) -**
-
-   ਛਾਪੇਮਾਰੀ ਸ੍ਰੋਤ (Publishing source) ਦਾ ਨਾਮ ਲਿਖਕੇ ਕਾਮਾ ਚਿੰਨ੍ਹ (,) ਪਾ ਕੇ ਲਿਖਣਾ ਹੈ।
-
-   ਮਿਸਾਲ -\
-   Bloomsbury Publishing,
+   **Ans:** Dhaliwal, Riya. "Role of Art in Psychology." _Psychological Aspects_, vol. 12, no. 2, 2018, pp. 15-23, https://en.wikipedia.org/wiki/Psychological_Assessment_(journal).
 
 ---
-7. **ਛਾਪੇ ਦੀ ਮੀਤੀ, ਮਹੀਨਾ ਅਤੇ/ਜਾਂ ਸਾਲ (Date, Month and/or Year of publication)** 
+#### 9. Editor of a Book (Revised Editor) 2nd, 3rd, 4rth
 
-   ਜੇਕਰ ਦਿੱਤੇ ਹੋਣ ਤਾਂ ਉੱਤੇ ਵਾਲੀ ਤਰਤੀਬ ਨਾਲ ਲਿਖ ਕੇ, ਕਾਮਾ ਚਿੰਨ੍ਹ ਪਾ ਕੇ ਲਿਖਣਾ ਹੈ। 
+**Name:** William Shakespeare
+**Title:** The Marchant of Venice
+**Year:** 1597
+**Publisher:** Penguin Classics
+**Edited:** Lee Brown
+**Edition:** Five
 
-   ਮਿਸਾਲ -\
-   21/07/2007,
-
----
-8. **ਵਰਕ਼ਾ ਨੰਬਰ (Page Number) -**
-
-   pp. ਪਾ ਕੇ ਵਰਕ਼ਿਆਂ ਦੇ ਨੰਬਰ ਲਿਖ ਕੇ, . ਪਾ ਕੇ ਬੰਦ ਕਰ ਦੇਣਾ ਹੈ।
-
-   ਮਿਸਾਲ -\
-   pp. 724-749.
-
----
-9. **ਵੈਬਸਾਇਟ ਸ੍ਰੋਤ (Link/URL) -**
-
-   ਲਿੰਕ ਜਾਂ ਯੂ.ਆਰ.ਐਲ.(URL) ਹੂਬਹੂ ਲਿਖਕੇ ਬਿੰਦੀ (.) ਪਾ ਕੇ ਬੰਦ ਕਰ ਦੇਣਾ ਹੈ।
-
-   ਮਿਸਾਲ -\
-   vidyaprabodhinicollege.edu.in/VPCCECM/ebooks/ENGLISH%20LITERATURE/Harry%20potter/(Book%207)%20Harry%20Potter%20And%20The%20Deathly%20Hallows.pdf.
+**Example:** Shakespeare, William. _The Marchant of Venice_, edited by Lee Brown, 5th ed. , Penguin Classics, 1597.
