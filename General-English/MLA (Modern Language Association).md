@@ -25,11 +25,11 @@
 --------------------------------------------------------------------------
 #### 3. Book with 3 author or multiple authors
 
-**Name1**: Patricia White
-**Name2:** John Miller
-**Name3:** Rachael Adams
-**Title:** Architecture
-**Publisher:** Penguin
+**Name1**: Patricia White\
+**Name2:** John Miller\
+**Name3:** Rachael Adams\
+**Title:** Architecture\
+**Publisher:** Penguin\
 **Year:** 2018
 
 **Example:** Surname(Name1), Name1, et al. Title (in Italic). Publisher, Year.
@@ -39,11 +39,11 @@
 --------------------------------------------------------------------------
 #### 4. Chapter in a book
 
-**Name**: James Carter
-**Chapter:** Share Market in India
-**Book:** Business Economics
-**Publisher:** Oxford Press
-**Year:** 2018
+**Name**: James Carter\
+**Chapter:** Share Market in India\
+**Book:** Business Economics\
+**Publisher:** Oxford Press\
+**Year:** 2018\
 **Pages:** 25-47
 
 **Example:** Surname, Name. "Chapter." Book (in Italic). Publisher, Year, pp. 25-47.
@@ -53,12 +53,12 @@
 --------------------------------------------------------------------------
 #### 5. Chapter in a book with 2 author
 
-**Name1**: Ricked Parker
-**Name2**: Emily Turner
-**Chapter:** Child Development
-**Book:** Psychology
-**Publisher:** Cambridge
-**Year:** 2015
+**Name1**: Ricked Parker\
+**Name2**: Emily Turner\
+**Chapter:** Child Development\
+**Book:** Psychology\
+**Publisher:** Cambridge\
+**Year:** 2015\
 **Pages:** 50-72
 
 **Example:** Surname(Name1), Name(Name1), and Name2. "Chapter." Book (in Italic). Publisher, Year, pp. 50-72.
@@ -68,12 +68,12 @@
 --------------------------------------------------------------------------
 #### 6. Chapter in a Book with Editor
 
-**Name**: Michael Thompson.
-**Chapter:** Global Politics
-**Book:** 21st Centurу
-**Editor**: David Lee
-**Publisher:** Springer
-**Year:** 2020
+**Name**: Michael Thompson\
+**Chapter:** Global Politics\
+**Book:** 21st Centurу\
+**Editor**: David Lee\
+**Publisher:** Springer\
+**Year:** 2020\
 **Pages:** 158-169
 
 **Example:** Surname, Name. "Chapter." Book (in Italic), edited by Editor. Publisher, Year, pp. 158-169.
@@ -83,13 +83,13 @@
 --------------------------------------------------------------------------
 #### 7. Journal Article
 
-**Name:** A Riya Dhaliwal
-**Article:** Role of Art in Psychology 
-**Journal:** Psychological Aspects
-**Volume:** 12 
-**Issue:** 2 
-**Year:** 2018 
-**Pages:** 15-23
+**Name:** A Riya Dhaliwal\
+**Article:** Role of Art in Psychology\ 
+**Journal:** Psychological Aspects\
+**Volume:** 12\
+**Issue:** 2\
+**Year:** 2018\ 
+**Pages:** 15-23\
 
 **Example:** Surname, Name. "Article." Journal (in Italic), vol. Volume, no. Issue, Year, pp. 15-23.
 
@@ -100,11 +100,11 @@
 
 1. **Journal Article with Database**
 
-   **Name:** Henry James
-   **Title:** Daisy Miller
-   **Publisher:** Macmillan
-   **Year:** 1881
-   **Database:** JSTOR
+   **Name:** Henry James\
+   **Title:** Daisy Miller\
+   **Publisher:** Macmillan\
+   **Year:** 1881\
+   **Database:** JSTOR\
 
    **Example:** Surname, Name. Title (in italic), Publisher, Year. Database.
    
@@ -114,13 +114,13 @@
 
 2. **Journal Article with Link**
 
-   **Name:** A Riya Dhaliwal
-   **Article:** Role of Art in Psychology 
-   **Journal:** Psychological Aspects
-   **Volume:** 12 
-   **Issue:** 2 
-   **Year:** 2018 
-   **Pages:** 15-23
+   **Name:** A Riya Dhaliwal\
+   **Article:** Role of Art in Psychology\ 
+   **Journal:** Psychological Aspects\
+   **Volume:** 12\
+   **Issue:** 2\
+   **Year:** 2018\ 
+   **Pages:** 15-23\
    **Link:** https://en.wikipedia.org/wiki/Psychological_Assessment_(journal)
 
    **Example:** Surname, Name. "Article." Journal (in Italic), vol. Volume, no. Issue, Year, pp. 15-23, Link.
@@ -130,11 +130,13 @@
 ---
 #### 9. Editor of a Book (Revised Editor) 2nd, 3rd, 4rth
 
-**Name:** William Shakespeare
-**Title:** The Marchant of Venice
-**Year:** 1597
-**Publisher:** Penguin Classics
-**Edited:** Lee Brown
+**Name:** William Shakespeare\
+**Title:** The Marchant of Venice\
+**Year:** 1597\
+**Publisher:** Penguin Classics\
+**Edited:** Lee Brown\
 **Edition:** Five
 
-**Example:** Shakespeare, William. _The Marchant of Venice_, edited by Lee Brown, 5th ed. , Penguin Classics, 1597.
+**Example:** Surname, Name. Title (in Italic), edited by edited, edition(th) ed. , Publisher, Year.
+
+**Ans:** Shakespeare, William. _The Marchant of Venice_, edited by Lee Brown, 5th ed. , Penguin Classics, 1597.
