@@ -1,0 +1,9 @@
+“Araby”, by James Joyce,  is a short story about a young boy living in Dublin who develops a deep romantic feelings with his friend Mangan’s sister. It is a story from a collection of stories called "Dubliners" by Joyce. The boy watches her from afar, imagining her as a figure of beauty and mystery. Although they hardly speak, she becomes the center of his thoughts, and his feelings are romanticised, turning them into something almost sacred and holy.
+
+One day, the girl mentions a bazaar(market) called Araby and says that she cannot go. The boy desperately offers to go in her place and bring her something. This promise gives him a sense of purpose and excitement, and he begins to see his journey to the bazaar as a kind of a mission of excitement. However, his daily life—marked by faded surroundings and strict adults—contrasts sharply with his imaginative dreams.
+
+On the evening when he plans to go, the boy faces several delays. His uncle comes home late, and by the time he finally reaches the bazaar, it is nearly closing. Instead of the magical place he imagined, Araby appears quiet, dark, and disappointing. Most of the stalls are shut, and the atmosphere feels lifeless rather than attractive.
+
+In the end, the boy realizes that his romantic dreams were illusions. Standing in the dimly lit bazaar, he feels a sense of shame and anger at himself for being driven by his childish desire. This moment marks a loss of innocence, as he understands the gap between his idealised fantasies and the reality of the world around him.
+
+The central theme of this story is the coming of age and maturity where a person realises the vast difference between imagined fantasies and bitter realities.
