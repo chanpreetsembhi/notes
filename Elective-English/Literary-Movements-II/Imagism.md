@@ -1,0 +1,7 @@
+Imagism is a movement in early 20th-century poetry that focuses on clarity, precision, and strong visual imagery. It began around 1912 and was led by poets like Ezra Pound, who believed that poetry should present clear, sharp images rather than vague ideas or elaborate language. The movement rejected traditional poetic styles and focused on direct expression.
+
+A modernist poetry movement that emphasizes clarity, precision, and vivid imagery through simple and direct language and led by Ezra Pound, it encourages the exact presentation of subjects without unnecessary words, focusing on briefness and natural rhythm instead of strict poetic forms. Poets like Hilda Doolittle and Richard Aldington helped develop this style, producing straightforward and powerful works. Overall, Imagism marked a shift toward a more modern, image-focused approach to poetry that greatly impacted later literary movements. 
+
+One of the main principles of Imagism is the “direct treatment of the thing,” meaning that poets should describe objects or experiences exactly as they are, without unnecessary explanation or decoration. Imagist poets aimed to use simple and exact words, ensuring that every word had a purpose and contributed to the overall image or feeling.
+
+Overall, Imagism played a key role in shaping modernist poetry. It made many later poets promote simplicity, accuracy, and strong imagery. The movement helped shift poetry away from a complicated language toward a more direct and modern style of expression.
