@@ -12,7 +12,7 @@
 Cloud computing\
 Blogging\
 Telecommuting\
-Hedging language\ 
+Hedging language\
 Ascertaining language\
 Unethical and criminal behaviour\
 Corporate crime\
