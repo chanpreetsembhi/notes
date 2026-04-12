@@ -7,3 +7,24 @@
 3. Passage will be given and you have to identify and discuss weakness and possible area from improvement in the given passage. **(Mark 5)**
 
 4. You shall rewrite five references as per latest MLA (Modern Language Association). **(Mark 5)**
+
+#### POSSIBLE TOPICS
+Cloud computing 
+Blogging
+Telecommuting
+Hedging language 
+Ascertaining language 
+Unethical and criminal behaviour 
+Corporate crime 
+Cyber Crime 
+Premise
+Arguments
+Evaluation
+Global threats
+Cyber bullying
+Axiom vs. Postulate 
+Cyber security 
+Causes and Effects
+Global warming 
+GDP
+Demographic changes
