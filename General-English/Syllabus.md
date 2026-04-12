@@ -9,22 +9,22 @@
 4. You shall rewrite five references as per latest MLA (Modern Language Association). **(Mark 5)**
 
 #### POSSIBLE TOPICS
-Cloud computing\ 
+Cloud computing\
 Blogging\
 Telecommuting\
 Hedging language\ 
-Ascertaining language\ 
-Unethical and criminal behaviour\ 
-Corporate crime\ 
-Cyber crime\ 
+Ascertaining language\
+Unethical and criminal behaviour\
+Corporate crime\
+Cyber crime\
 Premise\
 Arguments\
 Evaluation\
 Global threats\
 Cyber bullying\
-Axiom vs. Postulate\ 
-Cyber security\ 
+Axiom vs. Postulate\
+Cyber security\
 Causes and Effects\
-Global warming\ 
+Global warming\
 GDP(Gross Domestic Product)\
 Demographic changes
