@@ -12,7 +12,7 @@
 Cloud computing\
 Blogging\
 Telecommuting\
-Hedging language\
+Hedging or Minimizing language\
 Ascertaining language\
 Unethical and criminal behaviour\
 Corporate crime\
@@ -22,7 +22,6 @@ Arguments\
 Evaluation\
 Global threats\
 Cyber bullying\
-Axiom vs. Postulate\
 Cyber security\
 Causes and Effects\
 Global warming\
