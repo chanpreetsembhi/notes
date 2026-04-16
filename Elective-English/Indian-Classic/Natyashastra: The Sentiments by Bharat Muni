@@ -1,7 +1,7 @@
 
 The Natyashastra, attributed to Bharata Muni, is a foundational text on performing arts in ancient India. It covers drama, dance, and music in a highly systematic way. The work is presented as a dialogue and aims to guide artists in creating meaningful and emotionally engaging performances.
 
-One of its central ideas is the concept of _rasa_, or aesthetic emotion. According to Bharata Muni, a successful performance evokes specific emotional responses—like love, anger, or wonder—in the audience. These emotions are produced through a combination of expressions, gestures, music, and storytelling, allowing viewers to experience a deeper artistic and emotional connection.
+One of its central ideas is the concept of _Rasa_, or aesthetic emotion. According to Bharata Muni, a successful performance evokes specific emotional responses—like love, anger, or wonder—in the audience. These emotions are produced through a combination of expressions, gestures, music, and storytelling, allowing viewers to experience a deeper artistic and emotional connection. This is what is referred to as Rasa.
 
 Here are traditionally 8 ***Rasas*** such as:
 
