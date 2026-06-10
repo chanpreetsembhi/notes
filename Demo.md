@@ -3,4 +3,4 @@
 
 ## 🎥 Demo
 
-<iframe src="https://www.youtube.com/watch?v=ugIlNyRRkYY"></iframe>
+[![Watch Ubuntu Demo](https://img.youtube.com/vi/ugIlNyRRkYY/0.jpg)](https://www.youtube.com/watch?v=ugIlNyRRkYY)
