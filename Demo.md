@@ -3,4 +3,6 @@
 
 ## 🎥 Demo
 
-[![Watch Ubuntu Demo](https://img.youtube.com/vi/ugIlNyRRkYY/0.jpg)](https://www.youtube.com/watch?v=ugIlNyRRkYY)
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/ugIlNyRRkYY"
+allowfullscreen></iframe>
